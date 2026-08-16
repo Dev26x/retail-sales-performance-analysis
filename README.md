@@ -63,7 +63,7 @@ Interactive slicers allow the dashboard to be filtered by:
 -   Gender
 -   Payment Method
 
-![Northstar Retail Sales Dashboard](dashboard.png)
+![Northstar Retail Sales Dashboard](Dashboard.png)
 
 ## Key Findings
 
